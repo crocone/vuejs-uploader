@@ -26,10 +26,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/charliekassel/vuejs-uploader"
+    "url": "https://github.com/crocone/vuejs-uploader"
   },
   "bugs": {
-    "url": "https://github.com/charliekassel/vuejs-uploader/issues"
+    "url": "https://github.com/crocone/vuejs-uploader/issues"
   },
   "dependencies": {
     "vue": "^2.3.3"
